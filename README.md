@@ -27,3 +27,8 @@ Sample Virtual Pet Pages:
 [Ms.Padilla](https://mspadilla.github.io/VirtualPet/) <br>
 [Amulya](https://amul-gif.github.io/VirtualPet_Amulya/) <br>
 [Truman](https://truman-ev.github.io/VirtualPet_Truman/) <br>
+[Yailyn](https://yailyn441.github.io/VirtualPet/) <br>
+[Leto](https://khilitt.github.io/VirtualPet/) <br>
+[Rosa](https://rosapplesauce.github.io/VirtualPet/) <br>
+
+
